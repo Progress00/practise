@@ -1,0 +1,33 @@
+#legend {
+        text-align: left;
+        font-size: 16pt;
+        color: #2F4F4F;
+        margin-bottom: 10px;
+        font-weight:bold;
+    }
+
+    input[type=text]
+ 
+    {
+    /*background-color: #9476f7;*/
+    background-position: 9px 10px;
+    background-repeat: no-repeat;
+    padding-right: 50px;
+
+  }
+  input[type=tel]
+  {
+    /*background-color: #9476f7;*/
+    background-position: 9px 10px;
+    background-repeat: no-repeat;
+    padding-right:  50px; 
+  }
+
+  input [type=email]
+  {
+
+  background-position: 9px 10px;
+    background-repeat: no-repeat;
+    padding-right:  50px; 
+    
+  }
